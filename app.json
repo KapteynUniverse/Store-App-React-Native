@@ -8,6 +8,9 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "extra": {
+      "API_URL": "https://fakestoreapi.com/products/"
+    },
     "ios": {
       "supportsTablet": true
     },
